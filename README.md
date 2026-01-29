@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Mvacari
-- 👀 I’m interested in interesting people and learning new things
-- 🌱 I’m currently learning the basics of basic coding
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I have no idea what I am doing here
+- 👀 I’m a pseudo-techie
+- 🌱 Fun fact: I'm learning the basics of basic coding while creating apps and gorgeous websites
+
 
 <!---
 Mvacari/Mvacari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
