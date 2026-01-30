@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mvacari
-- 👀 I’m a pseudo-techie
+- 👀 pseudo-techie
 - 🌱 Fun fact: I'm learning the basics of basic coding while creating apps and gorgeous websites
 
 
